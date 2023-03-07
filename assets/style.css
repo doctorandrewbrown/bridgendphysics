@@ -1,11 +1,14 @@
 /*Stylesheet for Bridgend Maths and Physics website*/
 
 /*Global styles*/
+body {
+    background-color: blueviolet;
+}
 
 /* Hero section styles*/
 
 #hero {
-    background-color: blue;
+    background-color: rgb(4, 4, 136);
     height: 50vh;
 }
 
@@ -20,4 +23,11 @@
     top: 40%;
     left: 5%;
     color: whitesmoke;
+}
+#cta-button {
+    color: black;
+    background-color: darkorange;
+    position: absolute;
+    bottom: 10%;
+    right: 5%;
 }

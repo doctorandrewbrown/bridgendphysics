@@ -1,0 +1,23 @@
+/*Stylesheet for Bridgend Maths and Physics website*/
+
+/*Global styles*/
+
+/* Hero section styles*/
+
+#hero {
+    background-color: blue;
+    height: 50vh;
+}
+
+#hero-text-main {
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    color: whitesmoke;
+}
+#hero-text-secondary {
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    color: whitesmoke;
+}

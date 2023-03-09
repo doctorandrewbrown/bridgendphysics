@@ -1,6 +1,6 @@
 /*---------Stylesheet for Bridgend Maths and Physics website--------------*/
 
-/*Global styles*/
+/*---------------Global styles----------------*/
 body {
     background-color: blueviolet;
 }
@@ -30,7 +30,8 @@ body {
 
 /* --------------Hero section-------------------- */
 
-  @media only screen and (min-width: 780px) {
+/* Applies absolute positioning for large and up devices*/
+  @media only screen and (min-width: 992px) {  /* 992px is the bootstrap breakpoint for large devices*/
     #hero-text-main {
         position: absolute;
         top: 20%;

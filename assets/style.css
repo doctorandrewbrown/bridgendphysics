@@ -1,60 +1,51 @@
-/*Stylesheet for Bridgend Maths and Physics website*/
+/*---------Stylesheet for Bridgend Maths and Physics website--------------*/
 
 /*Global styles*/
 body {
     background-color: blueviolet;
 }
 
-/* Hero section styles*/
+/* ------------Hero section styles----------*/
 
 #hero {
     background-color: rgb(23, 3, 37);
     color: rgb(236, 164, 8) ;
-    height: 75vh;
+    height: 50vh;
 }
 
-#hero-text-main {
-    position: absolute;
-    top: 20%;
-    left: 5%;
-    /*color: whitesmoke;*/
-}
-#hero-text-secondary {
-    position: absolute;
-    top: 40%;
-    left: 5%;
-    /*color: whitesmoke;*/
-}
 #cta-button {
     color: black;
     background-color: darkorange;
-    position: absolute;
-    bottom: 10%;
-    right: 5%;
 }
 
-/* Testimonial section styles*/
+
+/* -----------------Testimonial section styles----------*/
 
 .card {
     background-color: rgb(23, 7, 37);
     color: rgb(236, 164, 8);
 }
 
-/* Media queries*/
+/* --------------------Media queries-----------------*/
 
-/* Hero section */
+/* --------------Hero section-------------------- */
 
-@media only screen and (max-width: 780px) {
-    #hero {
-      text-align: center;
-    }
+  @media only screen and (min-width: 780px) {
     #hero-text-main {
-        position: static;
+        position: absolute;
+        top: 20%;
+        left: 5%;
     }
+
     #hero-text-secondary {
-        position: static;
+        position: absolute;
+        top: 40%;
+        left: 5%;
     }
+
     #cta-button {
-        position: static;
+        position: absolute;
+        bottom: 10%;
+        right: 5%;
     }
-  }
+}

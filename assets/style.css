@@ -9,7 +9,7 @@ body {
 
 #hero {
     background-color: rgb(23, 3, 37);
-    color: rgb(236, 164, 8) ;
+    color: rgb(243, 183, 53);
     height: 50vh;
 }
 
@@ -21,10 +21,13 @@ body {
 
 /* -----------------Testimonial section styles----------*/
 
-.card {
+.card-testimonial {
     background-color: rgb(23, 7, 37);
-    color: rgb(236, 164, 8);
+    color: rgb(243, 183, 53);
+    height: 400px;
+    font-size: 1.5rem;
 }
+
 
 /* --------------------Media queries-----------------*/
 

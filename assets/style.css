@@ -46,6 +46,7 @@ hr {
 /*-----------------About section styles--------------*/
 
 .about-content{
+    background-color: rgb(255, 255, 255);
     padding-top: 20%; 
     padding-bottom: 20%;
     /* flex about section to fit variable content length*/

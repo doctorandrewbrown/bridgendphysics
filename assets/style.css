@@ -5,6 +5,12 @@ body {
     background-color: rgb(162, 149, 173);
 }
 
+hr {
+    border: solid 1px rgb(23, 3, 37);
+    width: 20%;
+    margin: auto;
+}
+
 /* ------------Hero section styles----------*/
 
 #hero {
@@ -14,8 +20,8 @@ body {
 }
 
 #cta-button {
-    color: black;
-    background-color: darkorange;
+    color: rgb(23, 3, 37);
+    background-color: rgb(243, 183, 53);
 }
 
 
@@ -36,12 +42,26 @@ body {
     height: 400px;
     font-size: 1.5rem;
 }
+
 /*-----------------About section styles--------------*/
 
-.about-section{
+.about-content{
+    padding-top: 20%; 
+    padding-bottom: 20%;
+    /* flex about section to fit variable content length*/
     font-size: 1.5rem;
+    flex-direction: column;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 
+/*-----------------About section styles--------------*/
+
+.disclaimer {
+    background-color: rgba(23, 3, 37, 0.5);
+    color: rgba(243, 183, 53, 0.5);
+}
 
 /* --------------------Media queries-----------------*/
 

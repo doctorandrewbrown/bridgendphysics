@@ -53,7 +53,12 @@ Page sections
   
 ### Skeleton
 
+Wireframes (jpg)
 
+* [Desktop](https://github.com/doctorandrewbrown/bridgendphysics-wireframes/blob/main/wireframes/desk-top.jpg).
+
+* [Phone](https://github.com/doctorandrewbrown/bridgendphysics-wireframes/blob/main/wireframes/phone.jpg).
+*  [Tablet](https://github.com/doctorandrewbrown/bridgendphysics-wireframes/blob/main/wireframes/tablet.jpg).
 
 ### Surface
 

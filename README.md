@@ -49,7 +49,9 @@ Page sections
 * Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business. Therefore this section was placed near the page top.
 * About - This section gives information on the qualifications and experience of the site-owner, geographical area covered and subjects offered 
 * Key features - one-to-one, online, hybrid. This section uses the design convention of icons to highlight features. 
-* Contact details information.This section doubles as the footer
+* Contact details information.
+
+* The footer contains a disclaimer stating the site is for educational purposes only.
   
 ### Skeleton
 

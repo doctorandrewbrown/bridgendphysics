@@ -1,6 +1,7 @@
 /*---------Stylesheet for Bridgend Maths and Physics website--------------*/
 
 /*---------------Global styles----------------*/
+
 body {
     background-color: rgb(162, 149, 173);
 }
@@ -45,7 +46,7 @@ hr {
 
 /*-----------------About section styles--------------*/
 
-.about-content{
+.about-content {
     background-color: rgb(255, 255, 255);
     padding-top: 20%; 
     padding-bottom: 20%;

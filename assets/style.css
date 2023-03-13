@@ -31,7 +31,7 @@ hr {
 .card-testimonial {
     background-color: rgb(23, 7, 37);
     color: rgb(243, 183, 53);
-    height: 400px;
+    min-height: 400px;
     font-size: 1.5rem;
 }
 
@@ -40,7 +40,7 @@ hr {
 .card-feature {
     background-color: rgb(23, 7, 37);
     color: rgb(243, 183, 53);
-    height: 400px;
+    min-height: 400px;
     font-size: 1.5rem;
 }
 
@@ -48,14 +48,26 @@ hr {
 
 .about-content {
     background-color: rgb(255, 255, 255);
-    padding-top: 20%; 
+    padding-top: 20%;
     padding-bottom: 20%;
     /* flex about section to fit variable content length*/
-    font-size: 1.5rem;
+    /*font-size: 1.5rem;
     flex-direction: column;
     display:flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;*/
+    min-height: 400px;
+}
+
+/*-----------------Contact section styles------------*/
+
+.contact-section {
+    font-size: 1rem;
+    min-height: 400px;
+}
+
+.contact-list {
+    list-style: none;
 }
 
 /*-----------------About section styles--------------*/
@@ -70,7 +82,9 @@ hr {
 /* --------------Hero section-------------------- */
 
 /* Applies absolute positioning for large and up devices*/
-  @media only screen and (min-width: 992px) {  /* 992px is the bootstrap breakpoint for large devices*/
+@media only screen and (min-width: 992px) {
+
+    /* 992px is the bootstrap breakpoint for large devices*/
     #hero-text-main {
         position: absolute;
         top: 20%;

@@ -18,6 +18,10 @@ hr {
     background-color: rgb(23, 3, 37);
     color: rgb(243, 183, 53);
     height: 75vh;
+    background-image: url(./images/bg-image-lg.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 #cta-button {
@@ -31,7 +35,7 @@ hr {
 .card-testimonial {
     background-color: rgb(23, 7, 37);
     color: rgb(243, 183, 53);
-    min-height: 400px;
+    min-height: 500px;
     font-size: 1.5rem;
 }
 
@@ -63,7 +67,7 @@ hr {
 
 .contact-section {
     font-size: 1rem;
-    min-height: 300px;
+    min-height: 400px;
 }
 
 .contact-list {
@@ -73,8 +77,8 @@ hr {
 /*-----------------About section styles--------------*/
 
 .disclaimer {
-    background-color: rgba(23, 3, 37, 0.5);
-    color: rgba(243, 183, 53, 0.5);
+    background-color: rgba(23, 3, 37);
+    color: rgba(243, 183, 53);
 }
 
 /* --------------------Media queries-----------------*/

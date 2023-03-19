@@ -12,7 +12,7 @@ UX design was guided by the "five planes of UX" methodology. The five planes as 
 
 This project is considered worthwhile because an unmet demand for local private tutoring in physics and maths has been identified by the site-owner. Demand for such a service has been established by interviewing potential clients and researching competition in the targeted market. Site users are envisaged to be those seeking local in-person tuition in a given geographical location. This website will allow site users to find and contact a suitable local tutor (i.e. the site-owner) in order to arrange the tuition they need. The site is intended to provide value to both users and the site owner. Value is provided to users by assisting them to meet their tutoring needs, and to the site owner in terms of the business opportunity created by connecting with clients. 
 
-To realize the above strategy, a custom personal website was chosen instead of relying solely on social media for instance, as a website gives more flexibility and scope for branding the new service. A website can also be optimized for local SEO and building authority in the business niche by providing relevant content via a blog and articles. The website must be responsive to cater for the range of user devices that will be available to the intended users, especially mobile. 
+To realize the above strategy, a custom personal website was chosen (instead of relying solely on social media for instance) as a website gives more flexibility and scope for branding the new service. A website can also be optimized for local SEO and building authority in the business niche by providing relevant content via a blog and articles. The website must be responsive to cater for the range of user devices that will be available to the intended users, especially mobile. 
 
 ### Scope
 
@@ -45,7 +45,7 @@ Page sections
 
 * Navigation
 
-* Header with CTA - This is a banner section announcing the business title and a tagline summing up the essentials of the service. This section also includes a CTA button linking to the contact form. 
+* Header with CTA - This is a hero section announcing the business title and a tagline summing up the essentials of the service. This section also includes a CTA button linking to the contact details section. 
 * Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business. Therefore this section was placed near the page top.
 * About - This section gives information on the qualifications and experience of the site-owner, geographical area covered and subjects offered 
 * Key features - one-to-one, online, hybrid. This section uses the design convention of icons to highlight features. 
@@ -63,12 +63,16 @@ Wireframes (jpg)
 *  [Tablet](https://github.com/doctorandrewbrown/bridgendphysics-wireframes/blob/main/wireframes/tablet.jpg).
 
 ### Surface
+Colours, typography
 
 ## **Bugs**
 
 Bugs encountered are detailed in this section.
 
 * Text overflow was encountered with the h1 and h2 headings in the hero section, when initial testing for small devices. This was due to the above elements not being placed in their own columns. Placing the h1, h2 elements (and cta button) in their own columns allowed responsivity. Solving this bug demonstrated the importance of following bootstrap format to get built-in responsiveness.
+
+
+* The initial web-page layout used a single bootstrap container-fluid for the whole page. This caused an issue with the contact section which was required to be full-width. The bug was that bootstrap applied unwanted right and left margins. The bug was solved by enclosing the contact section in it's own container-fluid. 
 
 ## **Testing**
 
@@ -79,7 +83,7 @@ was replaced by using a modern fontawsome kit approach instead, bringing a small
 
 HTML and CSS checking used respectively, validator.w3.org and jigsaw.w3.org.
 
-The HTML test tool flagged two instaces of the h1 element in my code where one is recommended for a single article ie the web page. This was corrected in the final code. A missing DOCTYPE tag was also flagged and this was added to comply with current practice.
+The HTML test tool flagged two instaces of the h1 element in my code where one is recommended for a single article (ie the web page). This was corrected in the final code. A missing DOCTYPE tag was also flagged and this was added to comply with current practice.
 
 
 ## **Deployment**
@@ -88,4 +92,5 @@ Deployment was via github-pages at https://doctorandrewbrown.github.io/bridgendp
 
 ## **Credits**
 
-Pexels for images.
+*Pexels and Shutterstock for free stock images
+*Tinyjpg for image compression

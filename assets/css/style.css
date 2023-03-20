@@ -18,7 +18,7 @@ hr {
     background-color: rgb(23, 3, 37);
     color: rgb(243, 183, 53);
     height: 75vh;
-    background-image: url(./images/bg-image-lg.jpg);
+    background-image: url(../images/bg-image-lg.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

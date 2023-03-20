@@ -57,10 +57,10 @@ Page sections
 
 Wireframes (jpg)
 
-* [Desktop](https://github.com/doctorandrewbrown/bridgendphysics-wireframes/blob/main/wireframes/desk-top.jpg).
+* [Desktop](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/assets/wireframes/desk-top.jpg).
 
-* [Phone](https://github.com/doctorandrewbrown/bridgendphysics-wireframes/blob/main/wireframes/phone.jpg).
-*  [Tablet](https://github.com/doctorandrewbrown/bridgendphysics-wireframes/blob/main/wireframes/tablet.jpg).
+* [Phone](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/assets/wireframes/phone.jpg).
+*  [Tablet](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/assets/wireframes/tablet.jpg).
 
 ### Surface
 Colours, typography

@@ -74,6 +74,7 @@ Bugs encountered are detailed in this section.
 
 * The initial web-page layout used a single bootstrap container-fluid for the whole page. This caused an issue with the contact section which was required to be full-width. The bug was that bootstrap applied unwanted right and left margins. The bug was solved by enclosing the contact section in it's own container-fluid. 
 
+* The rendered site showed streching of some images. This was solved by targeting the css rule object-fit:cover to the relevant img tags.
 ## **Testing**
 
 Testing was conducted throughout development. Incremental changes were tested by opening the partly complete site in the chrome browser and "eye-balling" results. Incremental changes were initially tested for responsiveness via chrome dev tools. The chrome inspector was also used to identify layout problems and testing small style changes before amending code. 
@@ -93,4 +94,5 @@ Deployment was via github-pages at https://doctorandrewbrown.github.io/bridgendp
 ## **Credits**
 
 *Pexels and Shutterstock for free stock images
+
 *Tinyjpg for image compression

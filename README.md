@@ -43,7 +43,7 @@ Given the limited amount of content required to build the MVP, a single page web
 
 Page sections
 
-* Main sticy navigation bar
+* Main sticky navigation bar. This allows visitors to quicky move to any section wherever they are on the site.
 
 * Header with CTA - This is a hero section announcing the business title and a tagline summing up the essentials of the service. This section also includes a CTA button linking to the contact details section. 
 * Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business. Therefore this section was placed near the page top.
@@ -55,7 +55,7 @@ Page sections
   
 ### Skeleton
 
-Wireframes (jpg)
+Wireframes
 
 * [Desktop](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/assets/wireframes/desk-top.jpg).
 
@@ -63,7 +63,7 @@ Wireframes (jpg)
 *  [Tablet](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/assets/wireframes/tablet.jpg).
 
 ### Surface
-Colours, typography
+Colours, typography (TODO)
 
 ## **Bugs**
 

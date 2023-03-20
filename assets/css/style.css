@@ -23,6 +23,7 @@ hr {
     background-position: center;
     background-repeat: no-repeat;
 }
+
 /*----------cta button styles -------------------*/
 #cta-button {
     color: rgb(23, 3, 37);
@@ -38,7 +39,8 @@ hr {
     min-height: 500px;
     font-size: 1.5rem;
 }
-.card img{
+
+.card img {
     object-fit: cover;
 }
 
@@ -57,12 +59,6 @@ hr {
     background-color: rgb(255, 255, 255);
     padding-top: 20%;
     padding-bottom: 20%;
-    /* flex about section to fit variable content length*/
-    /*font-size: 1.5rem;
-    flex-direction: column;
-    display:flex;
-    justify-content: center;
-    align-items: center;*/
     min-height: 400px;
 }
 
@@ -91,7 +87,8 @@ hr {
 /* Applies absolute positioning for large and up devices*/
 
 @media only screen and (min-width: 992px) {
-/* 992px is the bootstrap breakpoint for large devices*/
+
+    /* 992px is the bootstrap breakpoint for large devices*/
     #hero-text-main {
         position: absolute;
         top: 20%;

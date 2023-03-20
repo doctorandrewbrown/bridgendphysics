@@ -18,7 +18,7 @@ hr {
     background-color: rgb(23, 3, 37);
     color: rgb(243, 183, 53);
     height: 75vh;
-    background-image: url(../images/blue-bg-image.svg);
+    background-image: url("../images/blue-bg-image.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

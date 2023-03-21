@@ -55,7 +55,9 @@ Page sections
   
 ### Skeleton
 
-Wireframes
+The skeleton plane of UXD was addressed using wireframe sketches. The wireframes express the interface design using concerns revealed above in the structure plane. The initial wireframes were changed after initial testing to include more CTA buttons to improve conversion.
+
+#### Wireframes
 
 * [Desktop](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/assets/wireframes/desk-top.jpg).
 

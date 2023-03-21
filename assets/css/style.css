@@ -18,7 +18,7 @@ hr {
     background-color: rgb(23, 3, 37);
     color: rgb(243, 183, 53);
     height: 75vh;
-    background-image: url();
+    background-image: url("../images/bg-image-lg.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,6 +51,11 @@ hr {
     color: rgb(243, 183, 53);
     min-height: 400px;
     font-size: 1.5rem;
+}
+
+/*  */
+ #myNav a {
+    color: rgb(243, 183, 53);
 }
 
 /*-----------------About section styles--------------*/

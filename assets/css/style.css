@@ -1,9 +1,17 @@
-/*---------Stylesheet for Bridgend Maths and Physics website--------------*/
+/*---------Style sheet for Bridgend Maths and Physics website--------------*/
 
 /*---------------Global styles----------------*/
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: wheat;
+}
+/* Ensures section heading not hidden on scroll */
+section {
+    scroll-margin: 5rem;
 }
 
 hr {
@@ -25,7 +33,7 @@ hr {
 }
 
 /*----------cta button styles -------------------*/
-#cta-button {
+.cta-button {
     color: rgb(23, 3, 37);
     background-color: rgb(243, 183, 53);
 }
@@ -53,10 +61,13 @@ hr {
     font-size: 1.5rem;
 }
 
-/* Navbar styles */
+/*-------Navbar styles------------ 
  #myNav a {
     color: rgb(243, 183, 53);
 }
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(243, 183, 53);
+  }
 
 /*-----------------About section styles--------------*/
 

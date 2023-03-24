@@ -117,7 +117,7 @@ hr {
         left: 5%;
     }
 
-    #hero-section #cta-button {
+    #hero-section .cta-button {
         position: absolute;
         bottom: 10%;
         right: 5%;

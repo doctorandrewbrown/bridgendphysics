@@ -22,6 +22,7 @@ hr {
     margin: auto;
 }
 
+
 /* ------------Hero section styles----------*/
 
 #hero {
@@ -43,7 +44,7 @@ hr {
 .cta-button {
     color: rgb(23, 3, 37);
     background-color: rgb(243, 183, 53);
-    font-size: 1.5rem;
+    font-size: 1rem;
     padding: 1rem;
 }
 

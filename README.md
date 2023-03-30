@@ -12,7 +12,8 @@ UX design was guided by the "five planes of UX" methodology. The five planes as 
 
 This project is considered worthwhile because an unmet demand for local private tutoring in physics and maths has been identified by the site-owner. Demand for such a service has been established by interviewing potential clients and researching competition in the targeted market. Site users are envisaged to be those seeking local in-person tuition in a given geographical location. This website will allow site users to find and contact a suitable local tutor (i.e. the site-owner) in order to arrange the tuition they need. The site is intended to provide value to both users and the site owner. Value is provided to users by assisting them to meet their tutoring needs, and to the site owner in terms of the business opportunity created by connecting with clients. 
 
-To realize the above strategy, a custom personal website was chosen (instead of relying solely on social media for instance) as a website gives more flexibility and scope for branding the new service. A website can also be optimized for local SEO and building authority in the business niche by providing relevant content via a blog and articles. The website must be responsive to cater for the range of user devices that will be available to the intended users, especially mobile. 
+To realize the above strategy, a custom personal website was chosen (instead of relying solely on social media for instance) as a website gives more flexibility and scope for branding the new service. A website can also be optimized for local SEO and building authority in the business niche by providing relevant content via a blog and articles. The website must be responsive to cater for the range of user devices that will be available to the intended users, especially mobile. A mockup of the responsive website can be seen here 
+![screenshot](documentation/mockup.png)
 
 ### Scope
 
@@ -41,21 +42,28 @@ Blogging functionality is not included in the scope at this (MVP) stage but coul
 
 Given the limited amount of content required to build the MVP, a single page website structure broken into sections was considered appropriate. Main navigation between sections is via a sticky navbar at the top of the page. Aditional cta buttons are included in the rendered web page to allow users to quickly reach contact details to complete conversion.
 
-Page sections
-
+#### Page sections
+Page sections with screen shots are described below.
 * Main sticky navigation bar. This allows visitors to quicky move to any section wherever they are on the site.
+![screenshot](documentation/navbar.png)
 
 * Header with CTA - This is a hero section announcing the business title and a tagline summing up the essentials of the service. This section also includes a CTA button linking to the contact details section. 
+  
+  ![screenshot](documentation/hero-section.png)
 * Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business. Therefore this section was placed near the page top.
+  
+  ![screenshot](documentation/testimonials-section.png)
 * About - This section gives information on the qualifications and experience of the site-owner, geographical area covered and subjects offered 
 * Key features - one-to-one, online, hybrid. This section uses the design convention of icons to highlight features. 
 * Contact details information.
+  ![screenshot](documentation/features-section.png)
 
-* The footer contains a disclaimer stating the site is for educational purposes only.
+* The footer is included to follow structural convenventions.
+  ![screenshot](documentation/footer-section.png)
   
 ### Skeleton
 
-The skeleton plane of UXD was addressed using wireframe sketches. The wireframes express the interface design using concerns revealed above in the structure plane. The initial wireframes were changed after initial testing to include more CTA buttons to improve conversion.
+The skeleton plane of UX design was addressed using wireframe sketches. The wireframes express the interface design using concerns revealed above in the structure plane. The initial wireframes were changed after initial testing to include more CTA buttons to improve conversion.
 
 #### Wireframes
 
@@ -65,7 +73,18 @@ The skeleton plane of UXD was addressed using wireframe sketches. The wireframes
 *  [Tablet](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/assets/wireframes/tablet.jpg).
 
 ### Surface
-Colours, typography (TODO)
+#### Colours
+Colours were chosen to be conservative in nature to project a professional image and to give good contrast between different sections and also between background and text.
+
+Colours used for text were
+ rgb(243, 183, 53) and rgb(0, 0, 0).
+For section backgrounds the colours used were
+rgb(23, 3, 37) and rgb(255,255,255). For contrast and consistency, rgb(243, 183, 53) was again used for the cta buttons.
+
+#### Typography
+In keeping with a professional image a sans-serif font was chosen for all text on the site. This was the Oswald font by google fonts, found here,
+https://fonts.googleapis.com/css2?family=Oswald&display=swap
+
 
 ## **Bugs**
 

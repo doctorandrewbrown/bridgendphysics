@@ -1,5 +1,6 @@
 /*---------Style sheet for Bridgend Maths and Physics website--------------*/
 
+
 /*---------------Global styles----------------*/
 
 html {
@@ -8,6 +9,7 @@ html {
 
 body {
     background-color: wheat;
+    font-family:  'Oswald', sans-serif;
 }
 /* Ensures section heading not hidden on scroll */
 section {
@@ -32,10 +34,17 @@ hr {
     background-repeat: no-repeat;
 }
 
+#hero h1 {
+    
+    font-weight: 600;
+}
+
 /*----------cta button styles -------------------*/
 .cta-button {
     color: rgb(23, 3, 37);
     background-color: rgb(243, 183, 53);
+    font-size: 1.5rem;
+    padding: 1rem;
 }
 
 
@@ -50,6 +59,8 @@ hr {
 
 .card img {
     object-fit: cover;
+    width: 10rem; 
+    height: 10rem;
 }
 
 /*-----------------Features section styles--------------*/
@@ -61,10 +72,12 @@ hr {
     font-size: 1.5rem;
 }
 
-/*-------Navbar styles------------ 
+/*-------Navbar styles------------ */
  #myNav a {
     color: rgb(243, 183, 53);
 }
+
+/*  */
 .navbar-dark .navbar-nav .nav-link {
     color: rgb(243, 183, 53);
   }
@@ -83,15 +96,21 @@ hr {
 .contact-section {
     font-size: 1rem;
     min-height: 400px;
+    background-color: white;
 }
 
 .contact-list {
     list-style: none;
 }
 
+.contact-icons {
+    font-size: 2rem;
+    letter-spacing: 1rem;
+}
+
 /*-----------------About section styles--------------*/
 
-.disclaimer {
+.footer-text {
     background-color: rgba(23, 3, 37);
     color: rgba(243, 183, 53);
 }

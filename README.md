@@ -42,7 +42,7 @@ Blogging functionality is not included in the scope at this (MVP) stage but coul
 
 Given the limited amount of content required to build the MVP, a single page website structure broken into sections was considered appropriate. Main navigation between sections is via a sticky navbar at the top of the page. Aditional cta buttons are included in the rendered web page to allow users to quickly reach contact details to complete conversion.
 
-#### Page sections
+#### Features
 Page sections with screen shots are described below.
 * Main sticky navigation bar. This allows visitors to quicky move to any section wherever they are on the site.
 ![screenshot](documentation/navbar.png)
@@ -58,7 +58,9 @@ Page sections with screen shots are described below.
 * Contact details information.
   ![screenshot](documentation/features-section.png)
 
-* The footer is included to follow structural convenventions.
+* The footer is included to follow structural convenventions, familiar to users.
+
+
   ![screenshot](documentation/footer-section.png)
   
 ### Skeleton
@@ -81,9 +83,25 @@ Colours used for text were
 For section backgrounds the colours used were
 rgb(23, 3, 37) and rgb(255,255,255). For contrast and consistency, rgb(243, 183, 53) was again used for the cta buttons.
 
+Colours for the cta button were rgb(23, 3, 37) and black. These choices ensured the buttons were attractive and also consistent with the colour scheme.
+
 #### Typography
-In keeping with a professional image a sans-serif font was chosen for all text on the site. This was the Oswald font by google fonts, found here,
-https://fonts.googleapis.com/css2?family=Oswald&display=swap
+In keeping with a professional image a sans-serif font was chosen for all text on the site. This was the [Oswald](https://fonts.googleapis.com/css2?family=Oswald&display=swap) font by google fonts.
+
+## Tecnnologies Used
+- [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
+- [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
+- [JavaScript](https://www.javascript.com) used for user interaction on the site via clickable buttons.
+
+- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
+- [GitHub](https://github.com) used for secure online code storage.
+- [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
+- [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
+- [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
+  
+## Testing
+
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
 
 
 ## **Bugs**
@@ -112,7 +130,41 @@ Browser testing was conducted in Chrome and Firefox. Responsivity was tested for
 
 ## **Deployment**
 
-Deployment was via github-pages at https://doctorandrewbrown.github.io/bridgendphysics/
+# Deployment
+
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+- In the [GitHub repository](https://github.com/doctorandrewbrown/bridgendphysics), navigate to the Settings tab 
+- From the source section drop-down menu, select the **Main** Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://doctorandrewbrown.github.io/bridgendphysics)
+
+### Local Deployment
+
+This project can be cloned or forked in order to make a local copy on your own system.
+
+#### Cloning
+
+You can clone the repository by following these steps:
+
+1. Go to the [GitHub repository](https://github.com/doctorandrewbrown/bridgendphysics) 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash or Terminal
+5. Change the current working directory to the one where you want the cloned directory
+6. In your IDE Terminal, type the following command to clone my repository:
+	- `git clone https://github.com/doctorandrewbrown/bridgendphysics.git`
+7. Press Enter to create your local clone.
+
+
+#### Forking
+
+By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
+You can fork this repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/doctorandrewbrown/bridgendphysics)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
 ## **Credits**
 

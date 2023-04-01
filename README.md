@@ -17,23 +17,23 @@ To realize the above strategy, a custom personal website was chosen (instead of 
 
 ### Scope
 
-The scope for this project was restricted to what was needed for a MVP and is determined by considering tasks and information needed to serve the project strategy. 
+The scope for this project was restricted to what was needed for a MVP and is determined by considering tasks and information needed to serve the project strategy and to corellate with user stories. 
 
 #### Tasks  
 
 Users need to:
 
-
-* Contact site owner
+* Contact site owner to arrange tuition.
 
 #### Information
 
 Users need to:
 
-* Find details of tutors qualifications
-* Find details of subjects covered 
-* View social proof of service ie. user testimonials
-* Find details of features of the service
+* Find details of tutors qualifications to assess suitabiity.
+* Find details of the tutors experience to assess suitabiity.
+* Find details of subjects covered to assess suitabiity.
+* View social proof of service ie. user testimonials to assess suitabiity.
+* Find details of features of the service to assess suitabiity.
 
 Blogging functionality is not included in the scope at this (MVP) stage but could easily be added in future. Article pages (HTML) could easily be added to the MVP at a future date. In this way, the current MVP provides immediate value and potential for future extensibility to serve the business strategy. 
 
@@ -51,21 +51,24 @@ Page sections with screen shots are described below.
   
   ![screenshot](documentation/hero-section.png)
 * Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business. Therefore this section was placed near the page top.
-  
   ![screenshot](documentation/testimonials-section.png)
+
 * About - This section gives information on the qualifications and experience of the site-owner, geographical area covered and subjects offered 
-* Key features - one-to-one, online, hybrid. This section uses the design convention of icons to highlight features. 
+![screenshot](documentation/about-section.png)
+
+* Key features - one-to-one, online, hybrid.  
+![screenshot](documentation/features-section.png)
+
 * Contact details information.
-  ![screenshot](documentation/features-section.png)
+  This section uses the design convention of icons to highlight features.
+![screenshot](documentation/contact-section.png)
 
 * The footer is included to follow structural convenventions, familiar to users.
-
-
-  ![screenshot](documentation/footer-section.png)
+![screenshot](documentation/footer-section.png)
   
 ### Skeleton
 
-The skeleton plane of UX design was addressed using wireframe sketches. The wireframes express the interface design using concerns revealed above in the structure plane. The initial wireframes were changed after initial testing to include more CTA buttons to improve conversion.
+The skeleton plane of UX design was addressed using wireframe sketches. The wireframes express the interface design using concerns revealed above in the structure plane. The initial wireframes were changed after testing, to include more CTA buttons to improve conversion.
 
 #### Wireframes
 
@@ -88,6 +91,17 @@ Colours for the cta button were rgb(23, 3, 37) and black. These choices ensured 
 #### Typography
 In keeping with a professional image a sans-serif font was chosen for all text on the site. This was the [Oswald](https://fonts.googleapis.com/css2?family=Oswald&display=swap) font by google fonts.
 
+
+[Fontawsome](https://fontawesome.com/v4/) icons were used in the contact and features section. These provide familiar and informative elements to users.
+
+| Source | Location | Name| 
+| --- | --- | --- |
+| [Fontawsome](https://fontawesome.com/v4/icon/certificate) | features section | fa-certificate | |
+| [Fontawsome](https://fontawesome.com/v4/icon/phone) | contact section | fa-phone|
+| [Fontawsome](https://fontawesome.com/v4/icon/home) | contact section | fa-home | 
+| [Fontawsome](https://fontawesome.com/v4/icon/envelope) | contact section | fa-envelope |    
+| [Fontawsome](https://fontawesome.com/v4/icon/mobile) | contact section | fa-mobile |     
+
 ## Tecnnologies Used
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
@@ -98,7 +112,12 @@ In keeping with a professional image a sans-serif font was chosen for all text o
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
 - [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
+-  [Tinypng](https://tinypng.com/) used for image file compression.
+-  [Gimp](https://www.gimp.org/) used image manipulation.
+
+-  [VScode](https://www.gimp.org/) used as development IDE.  
   
+             
 ## Testing
 
 For all testing, please refer to the [TESTING.md](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/TESTING.md) file.
@@ -153,6 +172,7 @@ You can fork this repository by using the following steps:
 | [W3Schools](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_button_element) | cta buttons |  javascript snippet for button as a link |
 | [Bootstrap ](https://getbootstrap.com/docs/4.5/components/navbar/) | navbar |  code snippets for navbar |
 | [Bootstrap ](https://getbootstrap.com/docs/4.1/components/navbar/) | navbar |  code snippets for collapsing navbar in mobile |
+| [Stackoverflow ](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) | bootstrap cards |  use of h-100 class for uniform height cards |
 
 ### Media
 
@@ -163,3 +183,5 @@ You can fork this repository by using the following steps:
 | [Pexels](https://www.pexels.com/photo/man-smiling-behind-wall-220453/) | testimonial section | image |
 | [Pexels](https://images.pexels.com/photos/1629236/pexels-photo-1629236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) | hero section | image | 
 
+## Acknowledgements
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.

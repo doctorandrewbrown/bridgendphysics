@@ -1,3 +1,34 @@
+# Testing
+Back to [README.md](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/README.md) file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## **Bugs**
 
 
@@ -6,7 +37,7 @@
 
 * The initial web-page layout used a single bootstrap container-fluid for the whole page. This caused an issue with the contact section which was required to be full-width. The bug was that bootstrap applied unwanted right and left margins. The bug was solved by enclosing the contact section in it's own container-fluid. 
 
-* The rendered site showed streching of some images. This was solved by targeting the css rule object-fit:cover to the relevant img tags.
+* The rendered site showed stretching of some images. This was solved by targeting the css rule object-fit:cover to the relevant img tags.
 
 
 ## **Testing**

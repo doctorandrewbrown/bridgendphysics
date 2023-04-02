@@ -84,7 +84,7 @@ Colours were chosen to be conservative in nature to project a professional image
 Colours used for text were
  rgb(243, 183, 53) and rgb(0, 0, 0).
 For section backgrounds the colours used were
-rgb(23, 3, 37) and rgb(255,255,255). For contrast and consistency, rgb(243, 183, 53) was again used for the cta buttons.
+rgb(23, 3, 37) and rgb(255,255,255). For contrast and consistency, rgb(243, 183, 53) was also used for the cta buttons.
 
 Colours for the cta button were rgb(23, 3, 37) and black. These choices ensured the buttons were attractive and also consistent with the colour scheme.
 
@@ -105,7 +105,7 @@ In keeping with a professional image a sans-serif font was chosen for all text o
 ## Tecnnologies Used
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
-- [JavaScript](https://www.javascript.com) used for user interaction on the site via clickable buttons.
+- [JavaScript](https://www.javascript.com) used for user interaction on the site via clickable buttons using javascript onclick method.
 
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
@@ -116,6 +116,9 @@ In keeping with a professional image a sans-serif font was chosen for all text o
 -  [Gimp](https://www.gimp.org/) used image manipulation.
 
 -  [VScode](https://www.gimp.org/) used as development IDE.  
+-  [JQuery](https://getbootstrap.com/docs/4.1/components/navbar/) used to implement Bootstrap hamburger menu. The relevant snippet is shown below;
+![screenshot](documentation/bootstrap-hamburger-snippet.png)
+  
   
              
 ## Testing

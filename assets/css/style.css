@@ -1,7 +1,7 @@
-/*---------Style sheet for Bridgend Maths and Physics website--------------*/
+/* Style sheet for Bridgend Maths and Physics website- */
 
 
-/*---------------Global styles----------------*/
+/*Global styles*/
 
 html {
     scroll-behavior: smooth;
@@ -11,7 +11,6 @@ body {
     background-color: wheat;
     font-family:  'Oswald', sans-serif;
 }
-/* Ensures section heading not hidden on scroll */
 section {
     scroll-margin: 5rem;
 }
@@ -23,7 +22,7 @@ hr {
 }
 
 
-/* ------------Hero section styles----------*/
+/* Hero section styles*/
 
 #hero {
     background-color: rgb(23, 3, 37);
@@ -40,7 +39,7 @@ hr {
     font-weight: 600;
 }
 
-/*----------cta button styles -------------------*/
+/*cta button styles*/
 .cta-button {
     color: rgb(23, 3, 37);
     background-color: rgb(243, 183, 53);
@@ -49,7 +48,7 @@ hr {
 }
 
 
-/* -----------------Testimonial section styles----------*/
+/*Testimonial section style*/
 
 .card-testimonial {
     background-color: rgb(23, 7, 37);
@@ -64,7 +63,7 @@ hr {
     height: 10rem;
 }
 
-/*-----------------Features section styles--------------*/
+/*Features section styles*/
 
 .card-feature {
     background-color: rgb(23, 7, 37);
@@ -73,17 +72,16 @@ hr {
     font-size: 1.5rem;
 }
 
-/*-------Navbar styles------------ */
+/*Navbar styles */
  #myNav a {
     color: rgb(243, 183, 53);
 }
 
-/*  */
 .navbar-dark .navbar-nav .nav-link {
     color: rgb(243, 183, 53);
   }
 
-/*-----------------About section styles--------------*/
+/*About section styles*/
 
 .about-content {
     color: black;
@@ -93,7 +91,7 @@ hr {
     min-height: 400px;
 }
 
-/*-----------------Contact section styles------------*/
+/*Contact section styles*/
 
 .contact-section {
     color: black;
@@ -111,16 +109,16 @@ hr {
     letter-spacing: 1rem;
 }
 
-/*-----------------About section styles--------------*/
+/*About section styles*/
 
 .footer-text {
     background-color: rgba(23, 3, 37);
     color: rgba(243, 183, 53);
 }
 
-/* --------------------Media queries-----------------*/
+/*Media queries*/
 
-/* --------------Hero section-------------------- */
+/*Hero section*/
 
 /* Applies absolute positioning for large and up devices*/
 

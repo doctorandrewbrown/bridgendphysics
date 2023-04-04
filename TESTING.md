@@ -51,12 +51,12 @@ Site owner needs to:
   
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, i need to know location of service.| [screenshot](documentation/stories-qualifications.png) |
-| As a new site user, I need to know subjects covered.| [screenshot](documentation/stories-qualifications.png) |
+| As a new site user, i need to know location of service.| [screenshot](documentation/stories-location.png) |
+| As a new site user, I need to know subjects covered.| [screenshot](documentation/stories-subjects.png) |
 | As a new site user, I would like to find details of tutors experience and qualifications so that I can assess their suitability| [screenshot](documentation/stories-qualifications.png) |
-| As a new site user I need to see social proof of quality.| [screenshot](documentation/stories-qualifications.png) |
-| As a new site user, I would like to find details of fees for the service| [screenshot](documentation/stories-qualifications.png) |
-| As a new site user, I would like to find contact details for the service| [screenshot](documentation/stories-qualifications.png) |
+| As a new site user I need to see social proof of quality.| [screenshot](documentation/stories-proof.png) |
+| As a new site user, I would like to find details of fees for the service| [screenshot](documentation/stories-fees.png) |
+| As a new site user, I would like to find contact details for the service| [screenshot](documentation/stories-contact.png) |
 
 ### Site Owner
 As the site owner I need to showcase my service and provide a way for new clients to find my contact details. This goal is satisfied by creating a site which has all the features needed to explain the service offered in the best light and in providing means to contact the business owner.

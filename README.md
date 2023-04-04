@@ -1,5 +1,5 @@
 # **Bridgend Physics and Maths Website**  
-https://doctorandrewbrown.github.io/bridgendphysics/
+ [Bridgend Physics and Maths website](https://doctorandrewbrown.github.io/bridgendphysics/).
 
 This website has been developed for a fictional A level and GCSE physics and maths private tutor service. 
 
@@ -15,9 +15,9 @@ This project is considered worthwhile because an unmet demand for local private 
 To realize the above strategy, a custom personal website was chosen (instead of relying solely on social media for instance) as a website gives more flexibility and scope for branding the new service. A website can also be optimized for local SEO and building authority in the business niche by providing relevant content via a blog and articles. The website must be responsive to cater for the range of user devices that will be available to the intended users, especially mobile. A mockup of the responsive website can be seen here 
 ![screenshot](documentation/mockup.png)
 
-### Scope
+### Scope and User Stories
 
-The scope for this project was restricted to what was needed for a MVP and is determined by considering tasks and information needed to serve the project strategy and to corellate with user stories. 
+The scope for this project was restricted to what was needed for a MVP and is determined by considering tasks and information needed to serve the project strategy and to corellate with **user stories**. 
 
 #### Tasks  
 
@@ -29,13 +29,16 @@ Users need to:
 
 Users need to:
 
-* Find details of tutors qualifications to assess suitabiity.
-* Find details of the tutors experience to assess suitabiity.
+* Find details of tutors qualifications and experience to assess suitabiity.
+* Find information on location of service.
 * Find details of subjects covered to assess suitabiity.
 * View social proof of service ie. user testimonials to assess suitabiity.
 * Find details of features of the service to assess suitabiity.
+* Find information on fees.
+* Find contact details.
 
-Blogging functionality is not included in the scope at this (MVP) stage but could easily be added in future. Article pages (HTML) could easily be added to the MVP at a future date. In this way, the current MVP provides immediate value and potential for future extensibility to serve the business strategy. 
+Site owner needs to:
+* Establish a web presence to showcase the services offered.
 
 
 ### Structure
@@ -82,11 +85,11 @@ The skeleton plane of UX design was addressed using wireframe sketches. The wire
 Colours were chosen to be conservative in nature to project a professional image and to give good contrast between different sections and also between background and text.
 
 Colours used for text were
- rgb(243, 183, 53) and rgb(0, 0, 0).
+ `rgb(243, 183, 53)` and `rgb(0, 0, 0)`.
 For section backgrounds the colours used were
-rgb(23, 3, 37) and rgb(255,255,255). For contrast and consistency, rgb(243, 183, 53) was also used for the cta buttons.
+`rgb(23, 3, 37)` and `rgb(255,255,255)`. For contrast and consistency, `rgb(243, 183, 53)` was also used for the cta buttons.
 
-Colours for the cta button were rgb(23, 3, 37) and black. These choices ensured the buttons were attractive and also consistent with the colour scheme.
+Colours for the cta button were `rgb(23, 3, 37)` and black. These choices ensured the buttons were attractive and also consistent with the colour scheme.
 
 #### Typography
 In keeping with a professional image a sans-serif font was chosen for all text on the site. This was the [Oswald](https://fonts.googleapis.com/css2?family=Oswald&display=swap) font by google fonts.

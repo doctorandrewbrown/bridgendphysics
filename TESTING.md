@@ -85,6 +85,6 @@ There was an issue with the hamburger menu in the mobile view in that the dropdo
 
 * The rendered site showed stretching of some images. This was solved by targeting the css rule object-fit:cover to the relevant img tags.
 
- There are no remaining bug I am aware of.
+ There are no remaining bugs I am aware of.
 
 

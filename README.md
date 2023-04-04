@@ -118,7 +118,7 @@ In keeping with a professional image a sans-serif font was chosen for all text o
 -  [Tinypng](https://tinypng.com/) used for image file compression.
 -  [Gimp](https://www.gimp.org/) used image manipulation.
 
--  [VScode](https://www.gimp.org/) used as development IDE.  
+-  [VScode](https://code.visualstudio.com/) used as development IDE.  
 -  [JQuery](https://getbootstrap.com/docs/4.1/components/navbar/) used to implement Bootstrap hamburger menu. The relevant snippet is shown below;
 ![screenshot](documentation/bootstrap-hamburger-snippet.png)
   

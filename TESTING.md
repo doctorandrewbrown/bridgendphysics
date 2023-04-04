@@ -2,14 +2,12 @@
 ## HTML
 Back to [README.md](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/README.md) file.
 
-The live deployed site was validated at [w3.validator](https://validator.w3.org/#validate_by_uri) and the result is shown [here](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdoctorandrewbrown.github.io%2Fbridgendphysics%2F)
+HTML on the live deployed site was validated at [w3.validator](https://validator.w3.org/#validate_by_uri) and the result is shown [here](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdoctorandrewbrown.github.io%2Fbridgendphysics%2F)
 
 During development he HTML test tool flagged two instances of the h1 element in my code where one is recommended for a single article (ie the web page). This was corrected in the final code. A missing DOCTYPE tag was also flagged and this was added to comply with current practice.
 
 ## CSS
-I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate my CSS files.     
-
-The live deployed site was validated at [w3.validator](https://validator.w3.org/#validate_by_uri) and the result is shown [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdoctorandrewbrown.github.io%2Fbridgendphysics%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate my CSS files on the live deployed site and the result is shown [here](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdoctorandrewbrown.github.io%2Fbridgendphysics%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 
 ## Browser Compatibility
@@ -70,7 +68,7 @@ I have tested my deployed site to check for any major issues.
 | laptop |[screenshot](documentation/lighthouse-laptop.png) | Minor warning about caching policy |
 
 ## Manual Testing
-This involved testing of the site navigation. Site navigation was via a sticky top navbar with links to each page section and several cta buttons linking to the contact details section. Main navigation was tested to ensure the ability to move to and from any section via the sticky nav bar which was visible whatever section the user was on. Tha cta buttons were tested to ensure they link to the contact section.
+This involved testing of the site navigation. Site navigation was via a sticky top navbar with links to each page section and several cta buttons linking to the contact details section. Main navigation was tested to ensure the ability to move to and from any section via the sticky nav bar which was visible whatever section the user was on. The cta buttons were tested to ensure they link to the contact section.
 
 ## Bugs
 ### Known Remaining Bugs

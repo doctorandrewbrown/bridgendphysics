@@ -43,22 +43,21 @@ Site owner needs to:
 
 ### Structure
 
-Given the limited amount of content required to build the MVP, a single page website structure broken into sections was considered appropriate. Main navigation between sections is via a sticky navbar at the top of the page. Aditional cta buttons are included in the rendered web page to allow users to quickly reach contact details to complete conversion.
+Given the limited amount of content required to build the MVP, a single page website structure broken into sections was considered appropriate. Main navigation between sections is via a sticky navbar at the top of the page. Additional cta buttons are included in the rendered web page to allow users to quickly reach contact details to complete conversion.
 
 #### Features
 Page sections with screen shots are described below.
 * Main sticky navigation bar. This allows visitors to quicky move to any section wherever they are on the site.
 ![screenshot](documentation/navbar.png)
-
-  
-  ![screenshot](documentation/hero-section.png)
+* Hero section to announce the bussiness name and main offer.
+![screenshot](documentation/hero-section.png)
 * Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business. Therefore this section was placed near the page top.
   ![screenshot](documentation/testimonials-section.png)
 
 * About - This section gives information on the qualifications and experience of the site-owner, geographical area covered and subjects offered 
 ![screenshot](documentation/about-section.png)
 
-* Key features - one-to-one, online, hybrid.  
+* Key features to attract clients are showcased here - one-to-one, online, hybrid.  
 ![screenshot](documentation/features-section.png)
 
 * Contact details information.
@@ -114,7 +113,7 @@ In keeping with a professional image a sans-serif font was chosen for all text o
 - [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
 - [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
 -  [Tinypng](https://tinypng.com/) used for image file compression.
--  [Gimp](https://www.gimp.org/) used image manipulation.
+-  [Gimp](https://www.gimp.org/) used for image manipulation.
 
 -  [VScode](https://code.visualstudio.com/) used as development IDE.  
 -  [JQuery](https://getbootstrap.com/docs/4.1/components/navbar/) used to implement Bootstrap hamburger menu. The relevant snippet is shown below;

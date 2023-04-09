@@ -50,7 +50,6 @@ Page sections with screen shots are described below.
 * Main sticky navigation bar. This allows visitors to quicky move to any section wherever they are on the site.
 ![screenshot](documentation/navbar.png)
 
-* Header with CTA - This is a hero section announcing the business title and a tagline summing up the essentials of the service. This section also includes a CTA button linking to the contact details section. 
   
   ![screenshot](documentation/hero-section.png)
 * Testimonials - Social proof in the form of testimonials from happy clients was considered to be crucial content for this type of business. Therefore this section was placed near the page top.
@@ -87,9 +86,8 @@ Colours were chosen to be conservative in nature to project a professional image
 Colours used for text were
  `rgb(243, 183, 53)` and `rgb(0, 0, 0)`.
 For section backgrounds the colours used were
-`rgb(23, 3, 37)` and `rgb(255,255,255)`. For contrast and consistency, `rgb(243, 183, 53)` was also used for the cta buttons.
-
-Colours for the cta button were `rgb(23, 3, 37)` and black. These choices ensured the buttons were attractive and also consistent with the colour scheme.
+`rgb(23, 3, 37)`, `rgb(255,255,255)` and
+`rgb245,222,179`. For contrast and consistency, `rgb(243, 183, 53)` was also used for the cta buttons ensuring that the buttons were attractive and also consistent with the colour scheme.
 
 #### Typography
 In keeping with a professional image a sans-serif font was chosen for all text on the site. This was the [Oswald](https://fonts.googleapis.com/css2?family=Oswald&display=swap) font by google fonts.
@@ -172,13 +170,14 @@ You can fork this repository by using the following steps:
 
 | Source | Location | Notes |
 | --- | --- | --- |
-| [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
+| [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README.md and TESTING.md | tool to help generate the Markdown files |
 | [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
 | [W3Schools](https://www.w3schools.com/bootstrap4/bootstrap_get_started.asp) | entire site | responsive boostrap |
 | [W3Schools](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_button_element) | cta buttons |  javascript snippet for button as a link |
 | [Bootstrap ](https://getbootstrap.com/docs/4.5/components/navbar/) | navbar |  code snippets for navbar |
 | [Bootstrap ](https://getbootstrap.com/docs/4.1/components/navbar/) | navbar |  code snippets for collapsing navbar in mobile |
 | [Stackoverflow ](https://stackoverflow.com/questions/35868756/how-to-make-bootstrap-4-cards-the-same-height-in-card-columns) | bootstrap cards |  use of h-100 class for uniform height cards |
+| [Stackoverflow ](https://stackoverflow.com/questions/6121725/favicon-ico-or-png-correct-tags) | favicon |  how to ad favicon link |
 
 ### Media
 
@@ -188,6 +187,7 @@ You can fork this repository by using the following steps:
 | [Usplash](https://unsplash.com/photos/IF9TK5Uy-KI) | testimonial section | image | 
 | [Pexels](https://www.pexels.com/photo/man-smiling-behind-wall-220453/) | testimonial section | image |
 | [Pexels](https://images.pexels.com/photos/1629236/pexels-photo-1629236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) | hero section | image | 
+| [Favicon.io](https://favicon.io/favicon-generator/) | favicon | image | 
 
 ## Acknowledgements
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.

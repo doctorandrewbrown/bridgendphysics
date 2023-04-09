@@ -21,17 +21,17 @@ I've tested my deployed project on several browsers to check for compatibility i
 
 | Browser | Screenshot | Notes |
 | --- | --- | --- |
-| Chrome | [screenshot](documentation/browser-chrome.png) | Works as expected |
-| Firefox | [screenshot](documentation/browser-firefox.png) | Works as expected |
-| Opera | [screenshot](documentation/browser-opera.png) | Works as expected |
+| Chrome | ![screenshot](documentation/browser-chrome.png) | Works as expected |
+| Firefox | ![screenshot](documentation/browser-firefox.png) | Works as expected |
+| Opera | ![screenshot](documentation/browser-opera.png) | Works as expected |
 
 ## Responsiveness
 
 | Device | Screenshot | Notes |
 | --- | --- | --- |
-| Mobile (DevTools) | [screenshot](documentation/mobile.png) | Works as expected |
-| Tablet (DevTools) | [screenshot](documentation/tablet.png) | Works as expected |
-| Desktop | [screenshot](documentation/laptop.png) | Works as expected |
+| Mobile (DevTools) | ![screenshot](documentation/mobile.png) | Works as expected |
+| Tablet (DevTools) | ![screenshot](documentation/tablet.png) | Works as expected |
+| Laptop | ![screenshot](documentation/laptop.png) | Works as expected |
 
 ## User Story Testing
 Users need to:
@@ -49,12 +49,12 @@ Site owner needs to:
   
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, i need to know location of service.| [screenshot](documentation/stories-location.png) |
-| As a new site user, I need to know subjects covered.| [screenshot](documentation/stories-subjects.png) |
-| As a new site user, I would like to find details of tutors experience and qualifications so that I can assess their suitability| [screenshot](documentation/stories-qualifications.png) |
-| As a new site user I need to see social proof of quality.| [screenshot](documentation/stories-proof.png) |
-| As a new site user, I would like to find details of fees for the service| [screenshot](documentation/stories-fees.png) |
-| As a new site user, I would like to find contact details for the service| [screenshot](documentation/stories-contact.png) |
+| As a new site user, i need to know location of service.| ![screenshot](documentation/stories-location.png) |
+| As a new site user, I need to know subjects covered.| ![screenshot](documentation/stories-subjects.png) |
+| As a new site user, I would like to find details of tutors experience and qualifications so that I can assess their suitability| ![screenshot](documentation/stories-qualifications.png) |
+| As a new site user I need to see social proof of quality.| ![screenshot](documentation/stories-proof.png) |
+| As a new site user, I would like to find details of fees for the service| ![screenshot](documentation/stories-fees.png) |
+| As a new site user, I would like to find contact details for the service| ![screenshot](documentation/stories-contact.png) |
 
 ### Site Owner
 As the site owner I need to showcase my service and provide a way for new clients to find my contact details. This goal is satisfied by creating a site which has all the features needed to explain the service offered in the best light and in providing means to contact the business owner.
@@ -64,8 +64,8 @@ I have tested my deployed site to check for any major issues.
 
 | Size | Screenshot | Notes
 | --- | --- | --- |
-| mobile| [screenshot](documentation/lighthouse-mobile.png) | Some warnings related to external external dependencies e.g. Bootstrap|
-| laptop |[screenshot](documentation/lighthouse-laptop.png) | Minor warning about caching policy |
+| mobile| ![screenshot](documentation/lighthouse-mobile.png) | Some warnings related to external external dependencies e.g. Bootstrap|
+| laptop |![screenshot](documentation/lighthouse-laptop.png) | Minor warning about caching policy |
 
 ## Manual Testing
 This involved testing of the site navigation. Site navigation was via a sticky top navbar with links to each page section and several cta buttons linking to the contact details section. Main navigation was tested to ensure the ability to move to and from any section via the sticky nav bar which was visible whatever section the user was on. The cta buttons were tested to ensure they link to the contact section.
@@ -73,7 +73,7 @@ This involved testing of the site navigation. Site navigation was via a sticky t
 ## Bugs
 ### Known Remaining Bugs
 There was an issue with the hamburger menu in the mobile view in that the dropdown menu shown on click obscured the screen until it was cleared by a second click.
-[screenshot](documentation/hamburger-bug.png)
+![screenshot](documentation/hamburger-bug.png)
 
  This would result in a poor user experience in the deployed site. This was discussed with my mentor but solving this issue was judged to be beyond current scope but would clearly need to be addressed in a real site.
 

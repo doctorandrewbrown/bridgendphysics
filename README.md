@@ -74,10 +74,10 @@ The skeleton plane of UX design was addressed using wireframe sketches. The wire
 
 #### Wireframes
 
-* [Laptop](documentation/wireframe-laptop.png).
+* [Laptop](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/documentation/wireframe-laptop.jpg).
 
-* [Phone](documentation/wireframe-phone.png).
-*  [Tablet](documentation/wireframe-tablet.png).
+* [Phone](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/documentation/wireframe-phone.jpg).
+*  [Tablet](https://github.com/doctorandrewbrown/bridgendphysics/blob/main/documentation/wireframe-tablet.jpg).
 
 ### Surface
 #### Colours

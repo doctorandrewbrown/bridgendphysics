@@ -17,7 +17,7 @@ Recommended browsers to consider:
 - [Firefox](https://www.mozilla.org/firefox/developer)
 - [Opera](https://www.opera.com/download)
 
-I've tested my deployed project on several browsers to check for compatibility issues.
+I've tested my deployed project on several browsers to check for compatibility issues. Results are show below.
 
 | Browser | Screenshot | Notes |
 | --- | --- | --- |
